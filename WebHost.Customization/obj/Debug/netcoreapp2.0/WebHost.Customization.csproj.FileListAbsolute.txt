@@ -1,0 +1,12 @@
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\bin\Debug\netcoreapp2.0\WebHost.Customization.deps.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.csproj.CoreCompileInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.AssemblyInfoInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.AssemblyInfo.cs
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.csproj.CopyComplete
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\WebHost.Customization\obj\Debug\netcoreapp2.0\WebHost.Customization.csprojResolveAssemblyReference.cache

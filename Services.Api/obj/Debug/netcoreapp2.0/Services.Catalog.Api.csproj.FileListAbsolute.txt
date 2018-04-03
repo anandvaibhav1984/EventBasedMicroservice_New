@@ -1,0 +1,11 @@
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\bin\Debug\netcoreapp2.0\Services.Catalog.Api.deps.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\bin\Debug\netcoreapp2.0\Services.Catalog.Api.runtimeconfig.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\bin\Debug\netcoreapp2.0\Services.Catalog.Api.runtimeconfig.dev.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\bin\Debug\netcoreapp2.0\Services.Catalog.Api.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\bin\Debug\netcoreapp2.0\Services.Catalog.Api.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.AssemblyInfo.cs
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Services.Api\obj\Debug\netcoreapp2.0\Services.Catalog.Api.csprojResolveAssemblyReference.cache

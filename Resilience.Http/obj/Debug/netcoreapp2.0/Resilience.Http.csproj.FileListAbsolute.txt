@@ -1,0 +1,16 @@
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.deps.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.AssemblyInfoInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.AssemblyInfo.cs
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.csproj.CopyComplete
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.csprojResolveAssemblyReference.cache

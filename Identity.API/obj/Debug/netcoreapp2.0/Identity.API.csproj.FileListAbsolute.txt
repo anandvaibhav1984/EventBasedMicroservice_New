@@ -1,0 +1,14 @@
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.deps.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.dev.json
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csprojResolveAssemblyReference.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfo.cs
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CopyComplete
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\anand_singh\source\repos\EventBasedMicroservice\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.pdb
